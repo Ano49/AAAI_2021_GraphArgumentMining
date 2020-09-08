@@ -5,7 +5,6 @@ Focusing knowledge-based graph argument mining via topic modeling
 
 # Data
 Download from *** and extract as `data` folder into the `project` folder.
-Download from *** and extract as `data` folder into the `classifier` folder.
 Download from *** and extract as `embeddings` folder into the `classifier` folder.
 
 # Training and testing
