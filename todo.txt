@@ -1,0 +1,7 @@
+data data embeddings => uplaod
+
+only save results not raw_results in project
+
+requirements.txt
+
+fix readme
